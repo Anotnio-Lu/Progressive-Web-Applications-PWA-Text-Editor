@@ -64,7 +64,7 @@ The application has been deployed to Heroku and can be accessed below. Feel free
 
 ## deployed Link
 
-
+https://text-editor-pwa-app-ac346f5da575.herokuapp.com/ 
 
 ## Authors
 
