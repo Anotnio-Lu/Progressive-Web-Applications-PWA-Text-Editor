@@ -64,6 +64,17 @@ module.exports = () => {
             },
           },
         },
+        {
+          test: /favicon\.ico$/,
+          use: [
+            {
+              loader: 'file-loader',
+              options: {
+                name: '[name].[ext]',
+              },
+            },
+          ],
+        },
       ],
     },
   };
